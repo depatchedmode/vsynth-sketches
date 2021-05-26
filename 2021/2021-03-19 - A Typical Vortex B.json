@@ -1,0 +1,81 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Vsynth",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_noise_2::noise2_dim_x" : [ 16.0 ],
+					"vs_noise_2::noise2_interp" : [ 1.0 ],
+					"vs_wfg_3::wfg3_freq_range" : [ 0.0 ],
+					"vs_wfg_3::wfg3_fm_range" : [ 0.0 ],
+					"vs_wfg_3::wfg3_pm_range" : [ 0.0 ],
+					"vs_wfg_3::wfg3_angle" : [ 90.0 ],
+					"vs_wfg_3::wfg3_bias" : [ 76.771653543307082 ],
+					"vs_wfg_3::wfg3_biasm" : [ 0.240157480314961 ],
+					"vs_wfg_3::wfg3_fm" : [ 0.0 ],
+					"vs_wfg_3::wfg3_freq" : [ 420.0 ],
+					"vs_wfg_3::wfg3_pm" : [ -0.338582677165355 ],
+					"vs_wfg_3::wfg3_shape" : [ 0.75 ],
+					"vs_wfg_3::wfg3_speed" : [ 0.0 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.106299212598425 ],
+					"vs_filter_temp::temp_freq" : [ 0.807086614173228 ],
+					"vs_colorizer::clrizer_color" : [ 0.07843137254902, 0.822225016257363, 1.0, 1.0, 0.532150794932179, 1.0, 0.53921568627451 ],
+					"vs_colorizer::clrizer_hue" : [ 191.574286175584461 ],
+					"vs_hsl_modulator::hslm_sat_range" : [ 0.0 ],
+					"vs_hsl_modulator::hslm_hm_range" : [ 1.0 ],
+					"vs_hsl_modulator::hslm__sm_range" : [ 0.0 ],
+					"vs_hsl_modulator::hslm_light_range" : [ 0.0 ],
+					"vs_hsl_modulator::hslm_hm" : [ 0.0 ],
+					"vs_hsl_modulator::hslm_hue" : [ 360.0 ],
+					"vs_hsl_modulator::hslm_light" : [ 0.377952755905512 ],
+					"vs_hsl_modulator::hslm_lm" : [ 0.0 ],
+					"vs_hsl_modulator::hslm_pedestal" : [ 0.141732283464566 ],
+					"vs_hsl_modulator::hslm_sat" : [ 1.905511811023622 ],
+					"vs_hsl_modulator::hslm_sm" : [ 0.0 ],
+					"vs_blendmode_mixer::bm_ch1" : [ 1.0 ],
+					"vs_blendmode_mixer::bm_ch2" : [ 1.0 ],
+					"vs_blendmode_mixer::bm_master" : [ 1.0 ],
+					"vs_blendmode_mixer::bm_mode" : [ 0.0 ],
+					"vs_convolve::kernel" : [ 6.0 ],
+					"vs_convolve::r00" : [ -1.0 ],
+					"vs_convolve::r01" : [ -2.0 ],
+					"vs_convolve::r02" : [ -1.0 ],
+					"vs_convolve::r10" : [ 0.0 ],
+					"vs_convolve::r11" : [ 0.0 ],
+					"vs_convolve::r12" : [ 0.0 ],
+					"vs_convolve::r20" : [ 1.0 ],
+					"vs_convolve::r21" : [ 2.0 ],
+					"vs_convolve::r22" : [ 1.0 ],
+					"vs_convolve::width" : [ 1.0 ],
+					"vs_blendmode_mixer[1]::bm_ch1" : [ 1.0 ],
+					"vs_blendmode_mixer[1]::bm_ch2" : [ 1.0 ],
+					"vs_blendmode_mixer[1]::bm_master" : [ 1.0 ],
+					"vs_blendmode_mixer[1]::bm_mode" : [ 2.0 ],
+					"vs_displacement::displacement_gui::displacement_scale_ym" : [ 2.0 ],
+					"vs_displacement::displacement_gui::displacement_scale_xm" : [ 2.0 ],
+					"vs_displacement::displacement_gui::displacement_x_range" : [ 2.0 ],
+					"vs_displacement::displacement_gui::displacement_angle_range" : [ 2.0 ],
+					"vs_displacement::displacement_gui::displacement_anglemenu" : [ 3.0 ],
+					"vs_displacement::displacement_gui::displacement_y_range" : [ 2.0 ],
+					"vs_displacement::displacement_gui::displacement_angle" : [ 90.0 ],
+					"vs_displacement::displacement_gui::displacement_angle_m" : [ 0.0 ],
+					"vs_displacement::displacement_gui::displacement_x" : [ 0.0 ],
+					"vs_displacement::displacement_gui::displacement_x_m" : [ 0.0 ],
+					"vs_displacement::displacement_gui::displacement_y" : [ -0.094488188976378 ],
+					"vs_displacement::displacement_gui::displacement_y_m" : [ 0.0 ],
+					"vs_displacement::displacement_gui::displacement_zoom" : [ 1.011811023622047 ],
+					"vs_displacement::displacement_gui::displacement_zoom_m" : [ 0.49763779527559 ],
+					"vs_displacement::displacement_boundmode" : [ 3.0 ],
+					"vs_displacement::displacement_init_point" : [ 0.0 ],
+					"vs_displacement::displacement_polar" : [ 1.0 ],
+					"vs_filter_temp[1]::temp_freq" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

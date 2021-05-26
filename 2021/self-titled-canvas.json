@@ -1,0 +1,52 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Scene1",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_noise_2::noise2_dim_x" : [ 2.0 ],
+					"vs_noise_2::noise2_interp" : [ 1.0 ],
+					"vs_filter_temp[1]::temp_freq" : [ 0.952755905511811 ],
+					"vs_offset+rot[1]::offrot_anglemenu" : [ 3.0 ],
+					"vs_offset+rot[1]::offrot_x_range" : [ 2.0 ],
+					"vs_offset+rot[1]::offrot_y_range" : [ 2.0 ],
+					"vs_offset+rot[1]::offrot_angle" : [ 45.0 ],
+					"vs_offset+rot[1]::offrot_boundmode" : [ 3.0 ],
+					"vs_offset+rot[1]::offrot_x" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_y" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_zoom" : [ 4.0 ],
+					"vs_convolve::kernel" : [ 11.0 ],
+					"vs_convolve::r00" : [ -2.0 ],
+					"vs_convolve::r01" : [ -1.0 ],
+					"vs_convolve::r02" : [ 0.0 ],
+					"vs_convolve::r10" : [ -1.0 ],
+					"vs_convolve::r11" : [ 1.0 ],
+					"vs_convolve::r12" : [ 1.0 ],
+					"vs_convolve::r20" : [ 0.0 ],
+					"vs_convolve::r21" : [ 1.0 ],
+					"vs_convolve::r22" : [ 2.0 ],
+					"vs_convolve::width" : [ 0.984251968503937 ],
+					"vs_comparator::comparator_rgb" : [ 0.0 ],
+					"vs_comparator::comparator_smth" : [ 0.0 ],
+					"vs_comparator::comparator_thrshld" : [ 0.492125976377952 ],
+					"vs_duotoner::duo_c1" : [ 0.978521704673767, 0.427270233631134, 0.468975305557251, 1.0, 0.988235294117647, 0.909803921568627, 0.701960784313725 ],
+					"vs_duotoner::duo_c2" : [ 0.490524083375931, 0.983272075653076, 0.999767780303955, 1.0, 0.505882352941176, 0.972549019607843, 0.745098039215686 ],
+					"vs_duotoner::duo_mode" : [ 0.0 ],
+					"vs_duotoner::duo_smooth" : [ 0.0 ],
+					"vs_duotoner::duo_threshold" : [ 0.492125976377952 ],
+					"vs_filter_temp[2]::temp_freq" : [ 0.547244094488189 ],
+					"vs_colorizer::clrizer_color" : [ 0.843137254901961, 0.0, 0.482326692995025, 1.0, 0.904656351384704, 1.0, 0.42156862745098 ],
+					"vs_colorizer::clrizer_hue" : [ 325.676286498493539 ],
+					"vs_luma_key::luma_invert" : [ 0.0 ],
+					"vs_luma_key::luma_smth" : [ 0.0 ],
+					"vs_luma_key::luma_thrshld" : [ 0.102361307086614 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

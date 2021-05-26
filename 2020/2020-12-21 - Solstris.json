@@ -1,0 +1,67 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Scene1",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_noise_2::noise2_dim_x" : [ 4.0 ],
+					"vs_noise_2::noise2_interp" : [ 0.0 ],
+					"vs_filter_temp[1]::temp_freq" : [ 0.488188976377953 ],
+					"vs_offset+rot[1]::offrot_anglemenu" : [ 3.0 ],
+					"vs_offset+rot[1]::offrot_x_range" : [ 2.0 ],
+					"vs_offset+rot[1]::offrot_y_range" : [ 2.0 ],
+					"vs_offset+rot[1]::offrot_angle" : [ 180.0 ],
+					"vs_offset+rot[1]::offrot_boundmode" : [ 3.0 ],
+					"vs_offset+rot[1]::offrot_x" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_y" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_zoom" : [ 3.0 ],
+					"vs_filter_temp[2]::temp_freq" : [ 0.799212598425197 ],
+					"vs_luma_key::luma_invert" : [ 0.0 ],
+					"vs_luma_key::luma_smth" : [ 0.0 ],
+					"vs_luma_key::luma_thrshld" : [ 0.0 ],
+					"vs_offset+rot[2]::offrot_x_range" : [ 2.0 ],
+					"vs_offset+rot[2]::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot[2]::offrot_y_range" : [ 2.0 ],
+					"vs_offset+rot[2]::offrot_angle" : [ 0.0 ],
+					"vs_offset+rot[2]::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot[2]::offrot_x" : [ 0.0 ],
+					"vs_offset+rot[2]::offrot_y" : [ 0.0 ],
+					"vs_offset+rot[2]::offrot_zoom" : [ 1.08 ],
+					"vs_comparator[1]::comparator_rgb" : [ 0.0 ],
+					"vs_comparator[1]::comparator_smth" : [ 0.0 ],
+					"vs_comparator[1]::comparator_thrshld" : [ 0.082676748031496 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 2.0 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_angle" : [ 3.14 ],
+					"vs_offset+rot::offrot_boundmode" : [ 3.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.004645669291339 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.488188976377953 ],
+					"vs_inverter::ineverter_inv" : [ -1.0 ],
+					"vs_offset+rot[3]::offrot_y_range" : [ 2.0 ],
+					"vs_offset+rot[3]::offrot_x_range" : [ 2.0 ],
+					"vs_offset+rot[3]::offrot_anglemenu" : [ 3.0 ],
+					"vs_offset+rot[3]::offrot_angle" : [ 45.0 ],
+					"vs_offset+rot[3]::offrot_boundmode" : [ 3.0 ],
+					"vs_offset+rot[3]::offrot_x" : [ 0.0 ],
+					"vs_offset+rot[3]::offrot_y" : [ 0.0 ],
+					"vs_offset+rot[3]::offrot_zoom" : [ 1.413385826771653 ],
+					"vs_offset+rot[4]::offrot_anglemenu" : [ 3.0 ],
+					"vs_offset+rot[4]::offrot_y_range" : [ 2.0 ],
+					"vs_offset+rot[4]::offrot_x_range" : [ 2.0 ],
+					"vs_offset+rot[4]::offrot_angle" : [ 0.0 ],
+					"vs_offset+rot[4]::offrot_boundmode" : [ 3.0 ],
+					"vs_offset+rot[4]::offrot_x" : [ 0.0 ],
+					"vs_offset+rot[4]::offrot_y" : [ 0.0 ],
+					"vs_offset+rot[4]::offrot_zoom" : [ 2.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
